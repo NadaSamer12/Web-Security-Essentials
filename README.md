@@ -1,7 +1,7 @@
 # 🔐 Web Security Essentials
 
-**Author:** https://www.linkedin.com/in/nada-sofan-49b79b2b7
-**Role / Focus:** Cybersecurity | Web Security Fundamentals
+**Author:** [Nada Samer](https://www.linkedin.com/in/nada-sofan-49b79b2b7)
+**Role / Focus:** Web Security Fundamentals
 **Platform:** TryHackMe
 
 ## 📌 Overview

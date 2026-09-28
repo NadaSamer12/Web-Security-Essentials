@@ -178,6 +178,15 @@ The main concepts covered were:
 * Defense-in-depth
 
 ---
+## 🧠 Key Takeaways
+
+...
+
+## ✅ TryHackMe Completion
+
+Completed the **Web Security Essentials** room on TryHackMe.
+
+![TryHackMe Completion](screenshots/tryhackme-completion.png)
 
 ## 🧪 Platform & Training
 
